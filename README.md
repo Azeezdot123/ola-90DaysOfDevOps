@@ -5,3 +5,5 @@ The goal is to take 90 days, a few hours a day to enhance my skills in various D
 
 This journey will cover the areas that I feel will benefit my learning and experience various technologies in DevOps. I will also be using at MichaelCade repo to aid my journey. This is the link to the [REPO](https://github.com/MichaelCade/90DaysOfDevOps)
 - [✔️] ⌨️ 1 > [Introduction](Days/day01.md)
+- [✔️] ⌨️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
+- [✔️] ⌨️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
